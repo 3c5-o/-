@@ -1,0 +1,6 @@
+{
+  "name": "القرآن الكريم - ياسر الدوسري",
+  "description": "تطبيق القرآن الكريم كاملاً بصوت القارئ الشيخ ياسر الدوسري مع ميزة الاستماع والتحميل والحفظ بدون إنترنت بجودة عالية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
